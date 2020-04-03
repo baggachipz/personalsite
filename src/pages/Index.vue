@@ -170,7 +170,6 @@
           <a href="~assets/MatthewCurtis.odt"><img src="~assets/icon-odt.png" title="Open Document Format" alt="Open Document Format"></a>
           <a href="~assets/MatthewCurtis.pdf"><img src="~assets/icon-pdf.png" title="Acrobat (PDF) Format" alt="Adobe Acrobat"></a>
         </p>
-
       </q-card-section>
     </q-card>
   </q-page>
@@ -184,10 +183,10 @@ export default {
 
 <style lang="stylus">
   h3
-    text-shadow 0px 0px 2px rgba(20, 20, 20, 0.75)
+    text-shadow 0px 0px 2px rgba(255, 255, 255, 0.75)
   .bg
-    position: relative;
-    z-index: 1;
+    position relative
+    z-index 1
     &::before
       content ""
       position absolute

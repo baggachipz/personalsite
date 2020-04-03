@@ -21,6 +21,12 @@
       content-class="bg-grey-3"
     >
       <q-list>
+        <q-item-label
+          header
+          class="text-grey-8"
+        >
+          Page Links
+        </q-item-label>
         <EssentialLink
           v-for="link in essentialLinks"
           :key="link.title"
@@ -77,13 +83,14 @@ export default {
         {
           title: 'Résumé / CV',
           icon: 'description',
-          link: '#resume'
+          link: '#contact'
         },
         {
-          title: 'Github',
-          caption: 'github.com/baggachipz',
+          title: 'This Page\'s Source',
+          caption: 'github.com/baggachipz/personalsite',
           icon: 'code',
-          link: 'https://github.com/baggachipz'
+          link: 'https://github.com/baggachipz/personalsite',
+          newwin: true
         }
       ]
     }
