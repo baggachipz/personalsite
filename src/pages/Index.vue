@@ -23,7 +23,7 @@
               <li>CSS3</li>
               <li>Javascript/ECMAScript6+</li>
               <li>Node.js</li>
-              <li>MySQL and other Relational DBs</li>
+              <li>Relational Databases</li>
               <li>RESTful APIs</li>
             </ul>
           </div>
