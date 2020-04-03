@@ -1,4 +1,4 @@
-# Personal Site (personalsite)
+# My Personal Site
 
 Oh look, you've found my 'hire me!' site source. It's pretty simple really; I used [Quasar](https://quasar.dev) to create the page scaffolding and filled it with contents. This allowed me to quickly and efficiently develop a one-page site which is:
 
@@ -8,6 +8,8 @@ Oh look, you've found my 'hire me!' site source. It's pretty simple really; I us
 * Shows that I'm capable of at least using a framework to build a site
 
 I have coupled this with static site hosting on [Netlify](http://www.netlify.com) in order to bring this to you with automatic continuous deployment on a free (as in beer), distributed, and secure content delivery network. We live in the future!
+
+# Running/developing locally
 
 ## Install the dependencies
 ```bash
