@@ -16,18 +16,18 @@
       <q-card-section>
         <h3 class="text-primary text-left q-mb-none" title="wow. such letters. much skill.">Skills</h3>
         <div class="row wrap justify-evenly items-start content-start">
-          <div class="col-md-3 self-center">
+          <div class="col-md-3 self-start">
             <h5>Expertise in:</h5>
             <ul>
-              <li>HTML5</li>
-              <li>CSS3</li>
               <li>Javascript/ECMAScript6+</li>
               <li>Node.js</li>
+              <li>HTML5, CSS3</li>
+              <li>Domain-Driven Design</li>
               <li>Relational Databases</li>
               <li>RESTful APIs</li>
             </ul>
           </div>
-          <div class="col-md-3 self-center">
+          <div class="col-md-3 self-start">
             <h5>Frameworks</h5>
             <ul>
               <li>Express.js</li>
@@ -38,9 +38,10 @@
               <li>Ionic/Cordova</li>
             </ul>
           </div>
-          <div class="col-md-3 self-center">
+          <div class="col-md-3 self-start">
             <h5>I also know:</h5>
             <ul>
+              <li>Docker</li>
               <li>MongoDB</li>
               <li>Redis</li>
               <li>Elastic Search</li>
@@ -55,7 +56,7 @@
 
     <q-card class="q-mt-xl bg bg-experience" id="experience">
       <q-card-section>
-        <h3 class="text-primary text-left">Experience</h3>
+        <h3 class="text-primary text-left">Recent Experience</h3>
         <q-banner rounded class="bg-secondary text-white">
           <span class="text-subtitle1">Wow, that's a lot of alphabet soup up there. How about I describe some of the recent things I've worked on?</span>
         </q-banner>
