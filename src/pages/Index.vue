@@ -176,7 +176,7 @@
       <q-card-section>
         <h3 class="text-left">Personal</h3>
         <p>I enjoy new experiences and meeting new people. I've always secretly admired those who pick one passion and pursue it in perpetuity; alas, I am not one of those people.  I seek new experiences and avoid getting into a rut at all costs.</p>
-        <p>Some of my favorite things to do include golf, hiking with my dogs, kickball, cooking (sometimes poorly), and karaoke (usually very poorly).  I'm also a cast member and founder of <a href="https://www.sosimprov.com" target="_blank">SOS Improv</a>. Get your tickets early, our shows sell out!</p>
+        <p>Some of my favorite things to do include hiking with my dogs, kickball, raising our backyard chickens, cooking (sometimes poorly), and karaoke (usually very poorly).  I'm also a cast member and founder of <a href="https://www.sosimprov.com" target="_blank">SOS Improv</a>. Get your tickets early, our shows sell out!</p>
         <p>So as not to lose my geek card, I am an avid Simpsons fan (encyclopedic knowledge spans seasons 1 through 10), electronics tinkerer, Tesla/SpaceX disciple, science/cosmology reader, and I love to play those video games all the kids are talking about.</p>
       </q-card-section>
     </q-card>
