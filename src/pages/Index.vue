@@ -160,11 +160,16 @@
           </div>
           <div class="col-md-8 self-center">
             <q-item-section>
-              <q-item-label>James Madison University</q-item-label>
+              <q-item-label class="text-h6">James Madison University</q-item-label>
               <q-item-label caption>Harrisonburg, VA | 1994 - 1998</q-item-label>
               <div class="q-pt-md">
-                <p>Bachelor of Science, <a href="http://isat.jmu.edu" target="_blank">Integrated Science and Technology</a>
-                <br>Minor in Computer Science</p>
+                <p class="text-subtitle1">Bachelor of Science, <a href="http://isat.jmu.edu" target="_blank">Integrated Science and Technology</a></p>
+                <p class="text-subtitle1 q-mb-none">Concentrations in:</p>
+                <ul class="q-mt-none">
+                  <li>Information and Knowledge Management</li>
+                  <li>Environmental Studies</li>
+                </ul>
+                <p>Minor in Computer Science</p>
               </div>
             </q-item-section>
           </div>
