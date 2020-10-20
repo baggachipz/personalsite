@@ -148,6 +148,75 @@
         </q-list>
       </q-card-section>
     </q-card>
+    <q-card  class="q-mt-xl bg bg-other-experience" id="other-experience">
+      <q-card-section>
+        <h3 class="text-primary text-left">Other Notable Experience</h3>
+      </q-card-section>
+      <q-card-section>
+        <q-list>
+          <q-item>
+            <div class="row">
+              <div class="col-md-3 q-pb-md">
+                <q-item-section top avatar>
+                  <img src="~assets/logo-aol.png" alt="AOL">
+                </q-item-section>
+              </div>
+              <div class="col-md-9 q-pb-md">
+                <q-item-section>
+                  <q-item-label class="text-h6">AOL</q-item-label>
+                  <p>
+                    In the early 'aughts, I was a member of the AOL marketing department's small team of web developers. We created purchase flows for customer up-sells, which included A/B testing, rapid
+                    iteration, and nimble deployment at scale. We used a data-driven approach to measure creative success and reported results internally. Also, yes, I knew the guy who sent out all those CD's.
+                  </p>
+                </q-item-section>
+              </div>
+            </div>
+          </q-item>
+          <q-item>
+            <div class="row">
+              <div class="col-md-3 q-pb-md">
+                <q-item-section top avatar>
+                  <img src="~assets/logo-motleyfool.png" alt="The Motley Fool">
+                </q-item-section>
+              </div>
+              <div class="col-md-9 q-pb-md">
+                <q-item-section>
+                  <q-item-label class="text-h6">The Motley Fool</q-item-label>
+                  <p>
+                    During the first "dot-com" craze, I was the first developer hired on to create Foolmart, The Motley Fool's online store. We later utilized the payment processor integration as the first
+                    payment gateway for customers to purchse membership to the site for preimum content. Work on days, nights, and weekends was fueled by <a href="https://en.wikipedia.org/wiki/Surge_(drink)" target="_blank">Surge</a> and craft beer.
+                  </p>
+                </q-item-section>
+              </div>
+            </div>
+          </q-item>
+        </q-list>
+        <h4>Personal Projects</h4>
+        <q-banner rounded class="bg-secondary text-white">
+          <span class="text-subtitle1">I also like to contribute to the open-source community. Some projects I have created:</span>
+        </q-banner>
+        <div class="row q-pa-md items-start q-guttter-lg">
+          <div class="col col-xs-12 col-lg-6">
+            <q-card flat class="text-center other-experience-item">
+              <a href="https://tinylist.app" target="_blank"><img src="~assets/tinylist-thumbnail.png" alt="tinylist" /></a>
+              <q-card-section class="text-left">
+                <div class="text-h6"><a href="https://tinylist.app" target="_blank">tinylist</a></div>
+                <p>In my quest for more privacy-friendly alternatives to Google and Facebook, I realized that there was no comparable alternative to Google Keep. So, I created it and released it as a free, open-source project for anybody to use. I have a dedicated and enthusiastic community for the project and am currently on adding more features as requested.</p>
+              </q-card-section>
+            </q-card>
+          </div>
+          <div class="col col-xs-12 col-lg-6">
+            <q-card flat class="text-center other-experience-item">
+              <a href="https://github.com/baggachipz/q-form-builder" target="_blank"><img src="~assets/q-form-builder-thumbnail.png" alt="q-form-builder" /></a>
+              <q-card-section class="text-left">
+                <div class="text-h6"><a href="https://github.com/baggachipz/q-form-builder" target="_blank">q-form-builder</a></div>
+                <p>For a friend's business, I built a bespoke registration and payment site which allows the company owners to create their own registration forms via a drag-and-drop interface. I liked what I built and released it on NPM for anybody who would like to use it in their own projects.</p>
+              </q-card-section>
+            </q-card>
+          </div>
+        </div>
+      </q-card-section>
+    </q-card>
 
     <q-card class="q-mt-xl bg bg-education" id="education">
       <q-card-section>
@@ -232,6 +301,8 @@ export default {
       background url('~assets/skills-bg.jpg') center center
     &.bg-experience::before
       background url('~assets/experience-bg.jpg') center center
+    &.bg-other-experience::before
+      background url('~assets/other-experience-bg.jpg') center center
     &.bg-education::before
       background url('~assets/education-bg.jpg') center center
     &.bg-personal::before
@@ -247,5 +318,11 @@ export default {
   #personal
     h3, p, a
       color $grey-2
+
+  #other-experience
+    .other-experience-item
+      background: transparent
+      img
+        max-width: 100%
 
 </style>
