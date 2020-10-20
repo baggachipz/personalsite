@@ -201,7 +201,7 @@
               <a href="https://tinylist.app" target="_blank"><img src="~assets/tinylist-thumbnail.png" alt="tinylist" /></a>
               <q-card-section class="text-left">
                 <div class="text-h6"><a href="https://tinylist.app" target="_blank">tinylist</a></div>
-                <p>In my quest for more privacy-friendly alternatives to Google and Facebook, I realized that there was no comparable alternative to Google Keep. So, I created it and released it as a free, open-source project for anybody to use. I have a dedicated and enthusiastic community for the project and am currently on adding more features as requested.</p>
+                <p>In my quest for more privacy-friendly alternatives to Google and Facebook, I realized that there was no comparable alternative to Google Keep. So, I created it and released it as a free, open-source project for anybody to use. I have a dedicated and enthusiastic community for the project and am currently adding more features as requested.</p>
               </q-card-section>
             </q-card>
           </div>
