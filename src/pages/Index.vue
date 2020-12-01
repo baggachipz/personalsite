@@ -1,20 +1,20 @@
 <template>
   <q-page class="q-pa-md">
     <h2 class="text-primary">Oh, hey there.</h2>
-    <p class="text-body1">My name is <strong>Matt Curtis</strong>, and by day I am a mild-mannered web developer and team leader.</p>
+    <p class="text-body1">My name is <strong>Matt Curtis</strong>, and by day I am a mild-mannered manager, team leader, and web developer.</p>
     <p class="text-body1">
         I've been developing for the web since it became a thing, working on projects small and large. This
         includes experiences tailored to a small group of users, or a commerce site with millions of monthly
         visitors.
     </p>
-    <p class="text-positive text-body1">
+    <p class="text-secondary text-body1">
         If you're reading this, you may be considering hiring me.
         Please peruse this page to learn why that would be a fantastic idea.
     </p>
 
     <q-card class="q-mt-xl bg bg-skills">
       <q-card-section>
-        <h3 class="text-primary text-left q-mb-none" title="wow. such letters. much skill.">Skills</h3>
+        <h3 class="text-primary text-left q-mb-none" title="wow. such letters. much skill.">Technical Skills</h3>
         <div class="row wrap justify-evenly items-start content-start">
           <div class="col-md-3 self-start">
             <h5>Expertise in:</h5>
