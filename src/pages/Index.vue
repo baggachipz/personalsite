@@ -1,7 +1,7 @@
 <template>
   <q-page class="q-pa-md">
     <h2 class="text-primary">Oh, hey there.</h2>
-    <p class="text-body1">My name is <strong>Matt Curtis</strong>, and by day I am a mild-mannered manager, team leader, and web developer.</p>
+    <p class="text-body1">My name is <strong>Matt Curtis</strong>, and by day I am a mild-mannered engineering manager, team leader, and web developer.</p>
     <p class="text-body1">
         I've been developing for the web since it became a thing, working on projects small and large. This
         includes experiences tailored to a small group of users, or a commerce site with millions of monthly
@@ -39,7 +39,7 @@
             </ul>
           </div>
           <div class="col-md-3 self-start">
-            <h5>I also know:</h5>
+            <h5>I also know some:</h5>
             <ul>
               <li>Docker</li>
               <li>MongoDB</li>
