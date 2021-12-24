@@ -74,8 +74,8 @@
                 <q-item-section>
                   <q-item-label class="text-h6">Outlier.org</q-item-label>
                   <p>
-                    <a href="https://outlier.org" target="_blank">Outlier.org</a>'s mission is to make quality online education affordable for everybody, with accredited transferrable credits. 
-                    Courses are presented in a high-quality format akin to MasterClass, because it was created by the same person. Backend: Node.js, Google Cloud, Redis, PostgreSQL. Frontend: React, Bootstrap. 
+                    <a href="https://outlier.org" target="_blank">Outlier.org</a>'s mission is to make quality online education affordable for everybody, with accredited transferrable credits.
+                    Courses are presented in a high-quality format akin to MasterClass, because it was created by the same person. Backend: Node.js, Google Cloud, Redis, PostgreSQL. Frontend: React, Bootstrap.
                   </p>
                 </q-item-section>
               </div>
