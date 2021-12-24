@@ -80,6 +80,7 @@
                 </q-item-section>
               </div>
             </div>
+          </q-item>
           <q-item>
             <div class="row">
               <div class="col-md-3 q-pb-md">
