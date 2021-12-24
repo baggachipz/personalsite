@@ -32,14 +32,14 @@
             <ul>
               <li>Express.js</li>
               <li>Vue.js</li>
+              <li>React</li>
               <li>Quasar</li>
               <li>Backbone.js &amp; Underscorejs</li>
-              <li>Symfony/Silex</li>
               <li>Ionic/Cordova</li>
             </ul>
           </div>
           <div class="col-md-3 self-start">
-            <h5>I also know some:</h5>
+            <h5>I also know:</h5>
             <ul>
               <li>Docker</li>
               <li>MongoDB</li>
@@ -63,6 +63,23 @@
       </q-card-section>
       <q-card-section>
         <q-list>
+          <q-item>
+            <div class="row">
+              <div class="col-md-3 q-pb-md">
+                <q-item-section top avatar>
+                  <img src="~assets/logo-outlier.png" alt="Outlier.org">
+                </q-item-section>
+              </div>
+              <div class="col-md-9">
+                <q-item-section>
+                  <q-item-label class="text-h6">Outlier.org</q-item-label>
+                  <p>
+                    <a href="https://outlier.org" target="_blank">Outlier.org</a>'s mission is to make quality online education affordable for everybody, with accredited transferrable credits. 
+                    Courses are presented in a high-quality format akin to MasterClass, because it was created by the same person. Backend: Node.js, Google Cloud, Redis, PostgreSQL. Frontend: React, Bootstrap. 
+                  </p>
+                </q-item-section>
+              </div>
+            </div>
           <q-item>
             <div class="row">
               <div class="col-md-3 q-pb-md">
