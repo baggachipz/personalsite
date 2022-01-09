@@ -1,7 +1,7 @@
 <template>
   <q-page class="q-pa-md">
     <h2 class="text-primary">Oh, hey there.</h2>
-    <p class="text-body1">My name is <strong>Matt Curtis</strong>, and by day I am a mild-mannered engineering manager, team leader, and web developer.</p>
+    <p class="text-body1">My name is <strong>Matt Curtis</strong>, and by day I am a mild-mannered engineering manager, team leader, and full-stack web developer.</p>
     <p class="text-body1">
         I've been developing for the web since it became a thing, working on projects small and large. This
         includes experiences tailored to a small group of users, or a commerce site with millions of monthly
@@ -142,6 +142,15 @@
               </div>
             </div>
           </q-item>
+        </q-list>
+      </q-card-section>
+    </q-card>
+    <q-card  class="q-mt-xl bg bg-other-experience" id="other-experience">
+      <q-card-section>
+        <h3 class="text-primary text-left">Other Notable Experience</h3>
+      </q-card-section>
+      <q-card-section>
+        <q-list>
           <q-item>
             <div class="row">
               <div class="col-md-3 q-pb-md">
@@ -163,15 +172,6 @@
               </div>
             </div>
           </q-item>
-        </q-list>
-      </q-card-section>
-    </q-card>
-    <q-card  class="q-mt-xl bg bg-other-experience" id="other-experience">
-      <q-card-section>
-        <h3 class="text-primary text-left">Other Notable Experience</h3>
-      </q-card-section>
-      <q-card-section>
-        <q-list>
           <q-item>
             <div class="row">
               <div class="col-md-3 q-pb-md">
