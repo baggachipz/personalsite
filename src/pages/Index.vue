@@ -44,7 +44,7 @@
               <li>Docker</li>
               <li>MongoDB</li>
               <li>Redis</li>
-              <li>Elastic Search</li>
+              <li>Elasticsearch</li>
               <li>iOS/Android Development</li>
               <li>PHP</li>
               <li>C#/VB.NET</li>
