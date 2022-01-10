@@ -14,6 +14,7 @@
 
     <q-card class="q-mt-xl bg bg-skills">
       <q-card-section>
+        <a name="skills"></a>
         <h3 class="text-primary text-left q-mb-none" title="wow. such letters. much skill.">Technical Skills</h3>
         <div class="row wrap justify-evenly items-start content-start">
           <div class="col-md-3 self-start">
@@ -56,6 +57,7 @@
 
     <q-card class="q-mt-xl bg bg-experience" id="experience">
       <q-card-section>
+        <a name="experience"></a>
         <h3 class="text-primary text-left">Recent Experience</h3>
         <q-banner rounded class="bg-secondary text-white">
           <span class="text-subtitle1">Wow, that's a lot of alphabet soup up there. How about I describe some of the recent things I've worked on?</span>
@@ -238,6 +240,7 @@
 
     <q-card class="q-mt-xl bg bg-education" id="education">
       <q-card-section>
+        <a name="education"></a>
         <h3 class="text-primary text-left">Education</h3>
         <div class="row">
           <div class="col-md-4 q-pb-md">
@@ -266,6 +269,7 @@
 
     <q-card class="q-mt-xl bg bg-personal" id="personal">
       <q-card-section>
+        <a name="personal"></a>
         <h3 class="text-left">Personal</h3>
         <p>I enjoy new experiences and meeting new people. I've always secretly admired those who pick one passion and pursue it in perpetuity; alas, I am not one of those people.  I seek new experiences and avoid getting into a rut at all costs.</p>
         <p>Some of my favorite things to do include hiking with my dogs, kickball, raising our backyard chickens, cooking (sometimes poorly), and karaoke (usually very poorly).  I'm also a cast member and founder of <a href="https://www.sosimprov.com" target="_blank">SOS Improv</a>. Get your tickets early, our shows sell out!</p>
@@ -274,6 +278,7 @@
     </q-card>
 
     <q-card class="q-mt-xl bg bg-contact" id="contact">
+      <a name="contact"></a>
       <q-card-section>
         <h3 class="text-primary text-left">Contact</h3>
         <q-banner rounded class="bg-secondary text-white">
